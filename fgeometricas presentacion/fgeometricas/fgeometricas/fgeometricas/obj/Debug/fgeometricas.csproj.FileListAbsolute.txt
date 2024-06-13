@@ -1,0 +1,20 @@
+C:\Users\Jose\OneDrive\Desktop\fgeometricas\fgeometricas\fgeometricas\bin\Debug\fgeometricas.exe.config
+C:\Users\Jose\OneDrive\Desktop\fgeometricas\fgeometricas\fgeometricas\bin\Debug\fgeometricas.exe
+C:\Users\Jose\OneDrive\Desktop\fgeometricas\fgeometricas\fgeometricas\bin\Debug\fgeometricas.pdb
+C:\Users\Jose\OneDrive\Desktop\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.csproj.AssemblyReference.cache
+C:\Users\Jose\OneDrive\Desktop\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.Form1.resources
+C:\Users\Jose\OneDrive\Desktop\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.Properties.Resources.resources
+C:\Users\Jose\OneDrive\Desktop\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.csproj.GenerateResource.cache
+C:\Users\Jose\OneDrive\Desktop\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.csproj.CoreCompileInputs.cache
+C:\Users\Jose\OneDrive\Desktop\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.exe
+C:\Users\Jose\OneDrive\Desktop\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.pdb
+D:\cuarto semestre\poo\fgeometricas presentacion\fgeometricas\fgeometricas\fgeometricas\bin\Debug\fgeometricas.exe.config
+D:\cuarto semestre\poo\fgeometricas presentacion\fgeometricas\fgeometricas\fgeometricas\bin\Debug\fgeometricas.exe
+D:\cuarto semestre\poo\fgeometricas presentacion\fgeometricas\fgeometricas\fgeometricas\bin\Debug\fgeometricas.pdb
+D:\cuarto semestre\poo\fgeometricas presentacion\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.csproj.AssemblyReference.cache
+D:\cuarto semestre\poo\fgeometricas presentacion\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.Form1.resources
+D:\cuarto semestre\poo\fgeometricas presentacion\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.Properties.Resources.resources
+D:\cuarto semestre\poo\fgeometricas presentacion\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.csproj.GenerateResource.cache
+D:\cuarto semestre\poo\fgeometricas presentacion\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.csproj.CoreCompileInputs.cache
+D:\cuarto semestre\poo\fgeometricas presentacion\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.exe
+D:\cuarto semestre\poo\fgeometricas presentacion\fgeometricas\fgeometricas\fgeometricas\obj\Debug\fgeometricas.pdb
